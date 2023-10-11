@@ -2,7 +2,7 @@ object FormPrincipal: TFormPrincipal
   Left = 0
   Top = 0
   Caption = 'Menu Principal'
-  ClientHeight = 442
+  ClientHeight = 447
   ClientWidth = 628
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
